@@ -2,7 +2,7 @@
 [download]: https://bintray.com/goldrenard/maven/Program-JB/_latestVersion
 
 # Program JB
-This is a fork of **Program AB** — the reference implementation of the AIML 2.0 draft specification. AIML is a widely adopted standard for creating chat bots and mobile virtual assistants like ALICE, Mitsuku, English Tutor, The Professor, S.U.P.E.R. and many more. 
+This is a fork of **Program AB** (https://code.google.com/archive/p/program-ab/) — the reference implementation of the AIML 2.0 draft specification. AIML is a widely adopted standard for creating chat bots and mobile virtual assistants like ALICE, Mitsuku, English Tutor, The Professor, S.U.P.E.R. and many more. 
 
 **Program AB** was developed by Richard Wallace (contact info@alicebot.org) and first released in January, 2013. Following in the tradition of naming AIML interpreters after letters of the alphabet (Program B, Program D, Program N, Program O etc.), the name "AB" is intended to suggest a fresh start with AIML 2.0. 
 
